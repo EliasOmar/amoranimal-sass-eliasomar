@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 0; }
+
+body {
+  background-color: bisque; }
+
+h1 {
+  font-size: 8rem;
+  font-style: oblique;
+  text-align: center;
+  background-image: linear-gradient(90deg, #f57171, red);
+  font-weight: 800;
+  border-radius: 100%; }
+
+.columna1 {
+  font-size: 3rem;
+  font-style: oblique;
+  text-align: center; }
+
+.columna2 {
+  font-size: 3rem;
+  font-style: oblique; }
+
+.nav-link {
+  color: black;
+  transform: skew(-10deg);
+  background-image: linear-gradient(90deg, #f57171, red);
+  transition: 3s; }
+
+.titulo {
+  font-size: 4rem; }
+
+h2 {
+  background-color: red; }
+
+.cont {
+  transform: skew(-10deg);
+  background-image: linear-gradient(90deg, #f57171, red);
+  font-size: 2rem;
+  transition: heigth 4s, width 1s; }
